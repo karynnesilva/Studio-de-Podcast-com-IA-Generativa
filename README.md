@@ -1,7 +1,7 @@
 # Studio-de-Podcast-com-IA-Generativa
 Desafio de Projeto de Podcast do Bootcamp Universia- Fundamentos da IA ​​Generativa, utilizando as inteligências artificiais
 <p align="center">
-<img src="https://github.com/karynnesilva/Studio-de-Podcast-com-IA-Generativa/blob/main/Imagem/Capa%20Podcast.png"    width="400"
+<img src="https://github.com/karynnesilva/Studio-de-Podcast-com-IA-Generativa/blob/main/Imagem/Capa%20Podcast.png"    width="600"
 />
 </p>
 
