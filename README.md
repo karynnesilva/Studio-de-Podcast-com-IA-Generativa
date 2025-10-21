@@ -2,17 +2,16 @@
 Desafio de Projeto de Podcast do Bootcamp Universia- Fundamentos da IA ​​Generativa, utilizando as inteligências artificiais
 <p align="center">
 <img 
-    src="./karynnesilva/Studio-de-Podcast-com-IA-Generativa/Capa Podcast.png"
+    src="./https://github.com/karynnesilva/Studio-de-Podcast-com-IA-Generativa/blob/26931136f0ef236460c270aedc8c3b18b761cd28/Capa%20Podcast.png)"
     width="300"
 />
 </p>
 
 ## Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
-- [ChatGPT] (https://chat.openai.com/)
+- [ChatGPT](https://chat.openai.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
 - [Copilot](https://copilot.microsoft.com/)
 - [ElevenLabs](https://www.capcut.com/pt-br/)
