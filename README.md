@@ -1,4 +1,8 @@
-# Studio-de-Podcast-com-IA-Generativa
+# Studio de Podcast com IA Generativa
+# O Estudante das Coisas Estranhas da IA 
+Descobrindo os mistérios do conhecimento digital.
+
+
 Desafio de Projeto de Podcast do Bootcamp Universia- Fundamentos da IA ​​Generativa, utilizando as inteligências artificiais
 <p align="center">
 <img src="https://github.com/karynnesilva/Studio-de-Podcast-com-IA-Generativa/blob/main/Imagem/Capa%20Podcast.png"    width="600"
@@ -6,7 +10,7 @@ Desafio de Projeto de Podcast do Bootcamp Universia- Fundamentos da IA ​​Gen
 </p>
 
 ## Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
+- Abaixo está listado as Inteligências Artificiais utilizadas para gerar o podcast 
 
 ## 💻 Tecnologias utilizadas no projeto
 - [ChatGPT](https://chat.openai.com/)
