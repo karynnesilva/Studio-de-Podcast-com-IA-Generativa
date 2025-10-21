@@ -27,7 +27,7 @@ Desafio de Projeto de Podcast do Bootcamp Universia- Fundamentos da IA ​​Gen
 - Capcut para tratar aúdio 
 
 ## 📚 Materiais
-[Arquivo de Noção] (https://www.notion.so/Studio-de-Podcast-com-IA-28b99182fe768140b9d3f94d9f8b236f?source=copy_link)
+[Arquivo de Noção](https://www.notion.so/Studio-de-Podcast-com-IA-28b99182fe768140b9d3f94d9f8b236f?source=copy_link)
 
 
 ⌨️ com 💜 por Karynne Silva
